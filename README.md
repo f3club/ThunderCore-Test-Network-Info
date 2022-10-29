@@ -11,7 +11,7 @@ TST
 ### Block explorer URL(Optional)
 https://explorer-testnet.thundercore.com
 
-
+***
 
 ### 2) Published function
 
@@ -31,7 +31,7 @@ https://explorer-testnet.thundercore.com
 #### 8. Pay the deposit to apply for becoming a KOL function.
 #### 9. The automatic transfer function of the prize pool when a game2 ends unnaturally.
 
-
+***
 
 ### 3) f3club contract info
 
@@ -49,7 +49,7 @@ GameMode Contract deployed to: 0xFc3eB5064d0D8017698A999aedD0Ab6D86c8E997
 
 FoMo3Dlong Contract deployed to: 0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0
 
-
+***
 
 ### 4) 测试币领取方式
 
