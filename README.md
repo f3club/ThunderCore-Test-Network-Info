@@ -53,14 +53,14 @@ FoMo3Dlong Contract deployed to: 0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0
 
 # 4) 测试币领取方式
 
-内测体验需要USDT和F3Cash，如需USDT和F3Cash加入我们的体验有如下方式：
+If you need USDT and F3Cash to join our test：
 
-1. 在下面表格中留下自己的TT链测试网地址和申请信息，我们会空投给你。
+1. Leave your ThunderCore-Test-Net address and application information in the form below, and we will airdrop it to you. 
 
- 地址      | USDT数量     | F3Cash数量     
+ Address      | USDT     | F3Cash     
  -------- | :-----------:  | :-----------: 
  0x930354ACef0e603Cf10DA571Be901E82f2E27d2f     | 100     | 100     
 
-2. Email到我们的邮箱(cup@f3club.io)，邮箱中请说明你的地址和测试币(USDT、F3Cash)的数量
+2. Email to our mailbox (cup@f3club.io), please specify your address and the number of test coins (USDT, F3Cash) in the mailbox.
 
 
