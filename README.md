@@ -14,9 +14,9 @@ https://explorer-testnet.thundercore.com
 
 ### f3club contract info
 
-F3CacheToken Contract deployed to: 0x242e45E547AD14B8d24C416f0F0f82b473129260
+F3Cache Contract deployed to: 0x242e45E547AD14B8d24C416f0F0f82b473129260
 
-USDTToken Contract deployed to: 0x1425873dE73DEd4023Ed5BfCe0c6194a892Eab7d
+USDT Contract deployed to: 0x1425873dE73DEd4023Ed5BfCe0c6194a892Eab7d
 
 Bank Contract deployed to: 0x8234C141B82eE6229396248576C6341661d225D6
 
