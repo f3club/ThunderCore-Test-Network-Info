@@ -13,7 +13,7 @@ https://explorer-testnet.thundercore.com
 
 ***
 
-### 2) Published function
+# 2) Published function
 
 #### 1. Basic functions such as forecasting, purchasing keys, selecting teams, obtaining dividend income, income withdrawal, recommendation and invitation relationship, etc.
 #### 2. Recharge F3Cash function, withdraw F3Cash function.
@@ -33,7 +33,7 @@ https://explorer-testnet.thundercore.com
 
 ***
 
-### 3) f3club contract info
+# 3) f3club contract info
 
 F3Cache Contract deployed to: 0x242e45E547AD14B8d24C416f0F0f82b473129260
 
@@ -51,7 +51,7 @@ FoMo3Dlong Contract deployed to: 0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0
 
 ***
 
-### 4) 测试币领取方式
+# 4) 测试币领取方式
 
 内测体验需要USDT和F3Chache，如需USDT和F3Chache加入我们的体验请留下TT测试链的地址和申请数量，感谢！
 
